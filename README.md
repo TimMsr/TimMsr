@@ -1,7 +1,7 @@
 <h1 align="center">Tim Maeser</h1>
 <h3 align="center">Studying Software Engineer in University College Dublin</h3>
 
-🤔 About me **I’m a computer science student with a passion for software engineering, AI, and cybersecurity. With a strong foundation in Java and MySQL, I enjoy solving real-world problems through technology. My previous internships have allowed me to work on impactful projects, such as importing data into SAP ERP systems and automating invoicing processes, where I gained valuable experience in system integration and process optimization. I’m particularly interested in the intersection of AI, cybersecurity, and software engineering, and I’m eager to continue developing in these fields**
+**I’m a computer science student with a passion for software engineering, AI, and cybersecurity. With a strong foundation in Java and MySQL, I enjoy solving real-world problems through technology. My previous internships have allowed me to work on impactful projects, such as importing data into SAP ERP systems and automating invoicing processes, where I gained valuable experience in system integration and process optimization. I’m particularly interested in the intersection of AI, cybersecurity, and software engineering, and I’m eager to continue developing in these fields**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
